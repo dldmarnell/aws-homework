@@ -24,11 +24,14 @@ JupyterLab - [Install JupyterLab](https://jupyterlab.readthedocs.io/en/stable/ge
 
 ## Examples
 
-We can see here the classes are very imbalanced:
-![imbalanced_classes](Resources/Images/imbalanced_classes.png)
+Final cleaned cryptocurrency dataframe with PCA clusters and classes:
 
-Here is an example of the ClusterCentroid algorithm balancing the classes with Undersampling:
-![balanced_classes](Resources/Images/balanced_classes.png)
+![clustered_df](Resources/Images/clustered_df.png)
+
+
+Cryptocurrency PCA data and clusters plotted on a 3D scatter graph:
+
+![scatter_plot3d](Resources/Images/scatter_plot3d.png)
 
 ---
 
